@@ -1,3 +1,7 @@
+Hi There!
+
+This is my first React app created as an assignment. This is a very basic app nothing important to see here.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
